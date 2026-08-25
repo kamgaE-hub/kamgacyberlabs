@@ -45,13 +45,12 @@ authentication correlation, false-positive analysis and detection engineering.
 - Authentication log analysis
 - Account compromise investigation
 - Threat hunting
-- Detection engineering
 - MITRE ATT&CK
 - Incident response
 
 **Tools:** Microsoft Security · KQL · Message Trace · Authentication Logs
 
-👉 **[View Full Project](https://github.com/YOUR-USERNAME/cloudora-cld-0002-phishing-investigation)**
+👉 **[View Full Project](https://github.com/kamgaE-hub/phishing-investigation)**
 
 ---
 
