@@ -78,7 +78,7 @@ The investigation confirmed an executive account takeover caused by a three-nigh
 
 **Tools:** Azure Data Explorer · KQL · NIST Incident Response Lifecycle · MITRE ATT&CK Framework
 
-👉 **[View Project](https://github.com/YOUR-USERNAME/microsoft-sentinel-investigation)**
+👉 **[View Project](https://github.com/kamgaE-hub/SOCProject2)**
 
 ---
 
