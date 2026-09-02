@@ -28,7 +28,7 @@ queries, findings and recommendations where applicable.
 
 **Simulated SOC Client Engagement**
 
-Investigated a targeted phishing campaign against staff of a fictional company (
+This project investigated a targeted phishing campaign against staff of a fictional company (
 Cloudora
 ) using **KQL, message trace and
 authentication logs** to identify affected users and investigate potential
@@ -54,27 +54,27 @@ authentication correlation, false-positive analysis and detection engineering.
 
 ---
 
-### 🔎 Microsoft Sentinel – SOC Investigation
+### 🔎 Cloudora - Executive Account Takeover Investigation
 
-**Planned Project**
+**Simulated SOC Incident Response**
 
-A hands-on Microsoft Sentinel investigation focused on security alert
-triage, log analysis and incident investigation.
+This project investigates a suspected executive account takeover for a fictional company called Cloudora, located in the United Kingdom. 
 
-The project will demonstrate how I use KQL to investigate suspicious
-activity, correlate events and determine appropriate escalation or
-response actions.
+A suspicious sign-in alert indicated that the CEO's account had been accessed from an unusual location. Using Entra ID sign-in logs and audit logs, I investigated whether the activity was legitimate or malicious, traced the initial access method, identified persistence mechanisms, scoped the incident for additional affected accounts, and documented containment actions.
+
+
 
 **Key areas:**
 
-- SIEM investigation
-- Alert triage
-- KQL
-- Incident investigation
-- Log correlation
-- Threat hunting
+- Account Takeover Investigation
+- Password Spray Detection
+- Persistence Investigation
+- KQL Querying
+- Incident Response
+- MITRE ATT&CK Mapping
+- MFA & Persistence Investigation
 
-**Tools:** Microsoft Sentinel · KQL · Microsoft Security
+**Tools:** Azure Data Explorer · KQL · NIST Incident Response Lifecycle · MITRE ATT&CK Framework
 
 👉 **[View Project](https://github.com/YOUR-USERNAME/microsoft-sentinel-investigation)**
 
