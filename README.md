@@ -26,7 +26,7 @@ queries, findings and recommendations where applicable.
 
 ### 🔐 Cloudora – Phishing Campaign Investigation
 
-**Simulated SOC Client Engagement**
+**Project Overview**
 
 This project investigated a targeted phishing campaign against staff of a fictional company (
 Cloudora
@@ -56,11 +56,13 @@ authentication correlation, false-positive analysis and detection engineering.
 
 ### 🔎 Cloudora - Executive Account Takeover Investigation
 
-**Simulated SOC Incident Response**
+**Project Overview**
 
 This project investigates a suspected executive account takeover for a fictional company called Cloudora, located in the United Kingdom. 
 
 A suspicious sign-in alert indicated that the CEO's account had been accessed from an unusual location. Using Entra ID sign-in logs and audit logs, I investigated whether the activity was legitimate or malicious, traced the initial access method, identified persistence mechanisms, scoped the incident for additional affected accounts, and documented containment actions.
+
+The investigation confirmed an executive account takeover caused by a three-night password-spraying attack. I also identified an attacker-controlled MFA device, a malicious inbox rule set up to hide finance and invoice-related emails, and a second compromised account.
 
 
 
