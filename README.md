@@ -201,7 +201,7 @@ I'm continuing to develop my practical knowledge in:
 ## 📜 Certifications & Training
 
 ### Completed
-
+- [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)](https://cp.certmetrics.com/comptia/en/public/verify/credential/0b48ed0f39ff43c9840e8d586d74c9b0)
 - [Certification / Course]
 - [Certification / Course]
 - [Certification / Course]
